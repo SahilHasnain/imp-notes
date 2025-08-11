@@ -42,7 +42,16 @@
 
 ---
 
-## 5. Best Practices
+## 5. Code Reuse Policy
+
+* **Exclusive Rights**: Agar contract me likha hai ki client ko exclusive rights milte hain, to tum same code dusre client ke liye reuse nahi kar sakte.
+* **Non-Exclusive Rights**: Agar tumhare paas code ka non-exclusive license bacha hai, to tum base code reuse kar sakte ho — lekin sensitive data, branding, aur unique features remove karke.
+* **Safe Practice**: Core code modular rakho, client-specific customizations alag. Dusre client ke liye naye naam, branding, aur unique features add karo.
+* **Transparency**: Contract me clause add karo — "Developer retains the right to reuse generic, non-client-specific parts of the code in future projects."
+
+---
+
+## 6. Best Practices
 
 * Client ke liye transparency rakho — regular progress updates.
 * Written communication ka zyada use karo, verbal promises avoid karo.
@@ -50,4 +59,4 @@
 
 ---
 
-**Summary**: Ek professional developer hamesha project ko legally, technically, aur financially secure tarike se handle karta hai. Contract clear ho, deployment strategy sochi-samjhi ho, aur ownership clauses transparent ho — tabhi long-term trust aur profit dono banenge.
+**Summary**: Ek professional developer hamesha project ko legally, technically, aur financially secure tarike se handle karta hai. Contract clear ho, deployment strategy sochi-samjhi ho, ownership clauses transparent ho, aur code reuse policy pehle se define ho — tabhi long-term trust aur profit dono banenge.
